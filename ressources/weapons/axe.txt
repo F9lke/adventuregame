@@ -1,0 +1,4 @@
+name            =       axe
+dmg             =       50
+attackspeed     =       4
+durability      =       ??

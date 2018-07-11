@@ -1,0 +1,4 @@
+name            =       knife
+dmg             =       70
+attackspeed     =       8
+durability      =       ??

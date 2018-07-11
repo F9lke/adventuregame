@@ -1,0 +1,4 @@
+name            =       fist
+dmg             =       10
+attackspeed     =       35
+durability      =       ??

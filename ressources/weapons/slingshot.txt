@@ -1,0 +1,4 @@
+name            =       slingshot
+dmg             =       60
+attackspeed     =       5
+durability      =       ??

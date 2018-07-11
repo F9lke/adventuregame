@@ -1,0 +1,4 @@
+name            =       bow
+dmg             =       30
+attackspeed     =       5
+durability      =       ??

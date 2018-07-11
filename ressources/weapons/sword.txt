@@ -1,0 +1,4 @@
+name            =       sword
+dmg             =       120
+attackspeed     =       7
+durability      =       ??

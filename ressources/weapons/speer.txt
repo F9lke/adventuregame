@@ -1,0 +1,4 @@
+name            =       speer
+dmg             =       70
+attackspeed     =       5
+durability      =       ??

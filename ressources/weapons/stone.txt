@@ -1,0 +1,4 @@
+name            =       stone
+dmg             =       65
+attackspeed     =       3
+durability      =       ??
